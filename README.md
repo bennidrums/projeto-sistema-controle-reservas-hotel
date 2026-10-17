@@ -1,5 +1,7 @@
 # Sistema de Controle de Reservas de Hotel
 
+**Atividade prática do módulo M14 do curso Back-end Java da EBAC.**
+
 Esse projeto é um sistema simples de reservas de hotel feito em Java, com interação pelo terminal. A ideia foi praticar lógica de programação, arrays, métodos e orientação a objetos.
 
 ## Funcionalidades
